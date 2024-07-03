@@ -55,7 +55,7 @@ print(idx_to_class_name[0])
 
 
 # Read the CSV file
-df = pd.read_csv('mc_dropout50_VGG16_results.csv')
+df = pd.read_csv("c:\\Users\\AAA\\ImageNetValidation\\mcdropout\\mcdropout_50_csv\\mc_dropout50_AlexNet_results.csv")
 # print(df.head())
 
 

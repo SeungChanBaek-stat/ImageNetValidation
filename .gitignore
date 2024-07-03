@@ -3,4 +3,11 @@
 /data/ILSVRC2012_devkit_t12.tar.gz
 /data/ILSVRC2012_img_val.tar
 /data/meta.bin
+
+/prediction/pred_results
+
 /mcdropout/mcdrop_csv/
+/mcdropout/mcdropout_25_csv
+/mcdropout/mcdropout_50_csv
+/mcdropout/mcdropout_50_profile
+/mcdropout/deprecated
